@@ -1,0 +1,41 @@
+import ISIL.io;
+import ISIL.lang;
+private class $isilB {
+
+CONST Reel $y;
+CONST Entier $f:=54;
+
+Entier @T1[-1];
+Entier @T2[8];
+Entier @T2[8];
+Reel $l;
+Entier $l,$i:=98,$j:=12.87,$C:="ert",$c:=4;
+CONST Entier $m:=5;
+
+Chaine $p;
+CONST Chaine $b:="Beline";
+
+
+## ceci est
+Un commentaire##
+
+Main()
+{
+$C:=$l+$c;
+$w:=6;
+$f:=12;
+$y:=13;
+for(){}
+for($w;$i<10;$i++){}
+for($i:=1;$i<10;$i++){
+out("%d %f %s",$c,$b,$l);
+out("%d %s",$c,$b);
+in("%d",$m);
+@T2[9]:=8;
+@T3[2]:=$x+$y/2;
+}
+}
+
+}
+
+
